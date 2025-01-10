@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace CarDealershipApp.Controllers
 {
+   
     public class SamochodsController : Controller
     {
         private readonly KomisContext _context;
@@ -43,6 +45,7 @@ namespace CarDealershipApp.Controllers
             return View(samochod);
         }
 
+        [Authorize]
         // GET: Samochods/Create
         public IActionResult Create()
         {
@@ -65,6 +68,7 @@ namespace CarDealershipApp.Controllers
             return View(samochod);
         }
 
+        [Authorize]
         // GET: Samochods/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -116,6 +120,7 @@ namespace CarDealershipApp.Controllers
             return View(samochod);
         }
 
+        [Authorize]
         // GET: Samochods/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
