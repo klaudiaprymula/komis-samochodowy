@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|c:\\users\\klaud\\source\\repos\\cardealershipapp\\cardealershipapp\\controllers\\samochodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|solutionrelative:cardealershipapp\\controllers\\samochodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|c:\\users\\klaud\\source\\repos\\cardealershipapp\\cardealershipapp\\controllers\\zamowieniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|solutionrelative:cardealershipapp\\controllers\\zamowieniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|c:\\users\\klaud\\source\\repos\\cardealershipapp\\cardealershipapp\\controllers\\sprzedawcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|solutionrelative:cardealershipapp\\controllers\\sprzedawcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|c:\\users\\klaud\\source\\repos\\cardealershipapp\\cardealershipapp\\controllers\\klientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|solutionrelative:cardealershipapp\\controllers\\klientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|c:\\users\\klaud\\source\\repos\\cardealershipapp\\cardealershipapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|solutionrelative:cardealershipapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|c:\\users\\klaud\\source\\repos\\cardealershipapp\\cardealershipapp\\models\\sprzedawca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|solutionrelative:cardealershipapp\\models\\sprzedawca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|c:\\users\\klaud\\source\\repos\\cardealershipapp\\cardealershipapp\\models\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8417B40D-F1EE-489A-8BB1-3D6B8323A1BB}|CarDealershipApp\\CarDealershipApp.csproj|solutionrelative:cardealershipapp\\models\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZamowieniesController.cs",
+              "DocumentMoniker": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\ZamowieniesController.cs",
+              "RelativeDocumentMoniker": "CarDealershipApp\\Controllers\\ZamowieniesController.cs",
+              "ToolTip": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\ZamowieniesController.cs",
+              "RelativeToolTip": "CarDealershipApp\\Controllers\\ZamowieniesController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:53:21.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SprzedawcasController.cs",
+              "DocumentMoniker": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\SprzedawcasController.cs",
+              "RelativeDocumentMoniker": "CarDealershipApp\\Controllers\\SprzedawcasController.cs",
+              "ToolTip": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\SprzedawcasController.cs",
+              "RelativeToolTip": "CarDealershipApp\\Controllers\\SprzedawcasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:53:17.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SamochodsController.cs",
+              "DocumentMoniker": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\SamochodsController.cs",
+              "RelativeDocumentMoniker": "CarDealershipApp\\Controllers\\SamochodsController.cs",
+              "ToolTip": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\SamochodsController.cs",
+              "RelativeToolTip": "CarDealershipApp\\Controllers\\SamochodsController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:52:49.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KlientsController.cs",
+              "DocumentMoniker": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\KlientsController.cs",
+              "RelativeDocumentMoniker": "CarDealershipApp\\Controllers\\KlientsController.cs",
+              "ToolTip": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Controllers\\KlientsController.cs",
+              "RelativeToolTip": "CarDealershipApp\\Controllers\\KlientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:51:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Samochod.cs",
+              "DocumentMoniker": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Models\\Samochod.cs",
+              "RelativeDocumentMoniker": "CarDealershipApp\\Models\\Samochod.cs",
+              "ToolTip": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Models\\Samochod.cs",
+              "RelativeToolTip": "CarDealershipApp\\Models\\Samochod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:51:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sprzedawca.cs",
+              "DocumentMoniker": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Models\\Sprzedawca.cs",
+              "RelativeDocumentMoniker": "CarDealershipApp\\Models\\Sprzedawca.cs",
+              "ToolTip": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Models\\Sprzedawca.cs",
+              "RelativeToolTip": "CarDealershipApp\\Models\\Sprzedawca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:51:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Program.cs",
               "RelativeDocumentMoniker": "CarDealershipApp\\Program.cs",
               "ToolTip": "C:\\Users\\klaud\\source\\repos\\CarDealershipApp\\CarDealershipApp\\Program.cs",
               "RelativeToolTip": "CarDealershipApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABrAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T13:29:59.87Z",
               "EditorCaption": ""

@@ -47,6 +47,7 @@ namespace CarDealershipApp.Controllers
             return View(zamowienie);
         }
 
+        [Authorize(Roles = "Sprzedawca")]
         // GET: Zamowienies/Create
         public IActionResult Create()
         {
@@ -75,6 +76,7 @@ namespace CarDealershipApp.Controllers
             return View(zamowienie);
         }
 
+        [Authorize(Roles = "Sprzedawca")]
         // GET: Zamowienies/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -132,6 +134,7 @@ namespace CarDealershipApp.Controllers
             return View(zamowienie);
         }
 
+        [Authorize(Roles = "Sprzedawca")]
         // GET: Zamowienies/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {

@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CarDealershipApp.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Sprzedawca")]
     public class KlientsController : Controller
     {
         private readonly KomisContext _context;
